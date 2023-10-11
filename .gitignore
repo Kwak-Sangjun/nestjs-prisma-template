@@ -1,0 +1,6 @@
+#dependencies
+/dist
+/node_modules
+
+#evironment
+#.env
